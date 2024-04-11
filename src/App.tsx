@@ -8,19 +8,19 @@ import car4 from '/src/assets/img/car4.jpg';
 const IMAGES = [
   {
     url: car1,
-    alt: 'Nissan GTR',
+    alt: 'car1',
   },
   {
     url: car2,
-    alt: 'Nissan GTR',
+    alt: 'car2',
   },
   {
     url: car3,
-    alt: 'Nissan GTR',
+    alt: 'car3',
   },
   {
     url: car4,
-    alt: 'Nissan GTR',
+    alt: 'car4',
   },
 ];
 
